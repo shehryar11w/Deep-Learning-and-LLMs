@@ -13,9 +13,9 @@
 [submodule "YOLO-fundamentals"]
 	path = YOLO-fundamentals
 	url = https://github.com/shehryar11w/YOLO-fundamentals.git
-[submodule "carvana-image_segmentation"]
-	path = carvana-image_segmentation
-	url = https://github.com/shehryar11w/carvana-image_segmentation.git
+[submodule "pet-image_segmentation"]
+	path = pet-image_segmentation
+	url = https://github.com/shehryar11w/pet-image_segmentation.git
 [submodule "manualEmbedding"]
 	path = manualEmbedding
 	url = https://github.com/shehryar11w/manualEmbedding.git
