@@ -25,3 +25,12 @@
 [submodule "PetDataset"]
 	path = PetDataset
 	url = https://github.com/shehryar11w/petDataset-CNN.git
+[submodule "MicroGrad"]
+	path = MicroGrad
+	url = https://github.com/shehryar11w/MicroGrad.git
+[submodule "BasicNN-manual+TF"]
+	path = BasicNN-manual+TF
+	url = https://github.com/shehryar11w/NN-basics.git
+[submodule "CNN basics"]
+	path = CNN basics
+	url = https://github.com/shehryar11w/CNN-basics.git
