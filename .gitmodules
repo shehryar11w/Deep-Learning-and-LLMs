@@ -1,0 +1,21 @@
+[submodule "Pascal-VOC"]
+	path = Pascal-VOC
+	url = https://github.com/shehryar11w/Pascal-VOC.git
+[submodule "RNN-basics"]
+	path = RNN-basics
+	url = https://github.com/shehryar11w/RNN-basics.git
+[submodule "Seq2Seq"]
+	path = Seq2Seq
+	url = https://github.com/shehryar11w/Seq2Seq.git
+[submodule "ViT"]
+	path = ViT
+	url = https://github.com/shehryar11w/ViT.git
+[submodule "YOLO-fundamentals"]
+	path = YOLO-fundamentals
+	url = https://github.com/shehryar11w/YOLO-fundamentals.git
+[submodule "carvana-image_segmentation"]
+	path = carvana-image_segmentation
+	url = https://github.com/shehryar11w/carvana-image_segmentation.git
+[submodule "manualEmbedding"]
+	path = manualEmbedding
+	url = https://github.com/shehryar11w/manualEmbedding.git
