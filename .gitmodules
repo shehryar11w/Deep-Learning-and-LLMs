@@ -19,3 +19,9 @@
 [submodule "manualEmbedding"]
 	path = manualEmbedding
 	url = https://github.com/shehryar11w/manualEmbedding.git
+[submodule "Intel-Image"]
+	path = Intel-Image
+	url = https://github.com/shehryar11w/Intel-Image-classification-CNN.git
+[submodule "PetDataset"]
+	path = PetDataset
+	url = https://github.com/shehryar11w/petDataset-CNN.git
